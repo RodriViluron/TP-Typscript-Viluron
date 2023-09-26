@@ -16,4 +16,5 @@ npm install
 # Ejecución del Proyecto
 Una vez que hayas configurado el proyecto, puedes ejecutarlo en tu máquina local de la siguiente manera:
 1. Iniciar el Servidor Local: Usa el siguiente comando para iniciar un servidor local y ejecutar la aplicación:
-npm start
+npm run build
+2. Abrir el archivo index.html
